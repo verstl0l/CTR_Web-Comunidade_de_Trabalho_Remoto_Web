@@ -33,7 +33,7 @@ Abra o endereço `[http://127.0.0.1:5000](http://127.0.0.1:5000)` para visualiza
 # CTR_Web-Comunidade_de_Trabalho_Remoto_Web (Web)
 Este é o repositório da versão web do sistema, desenvolvido em Python (Flask), HTML, CSS e integrado ao banco de dados MySQL.
 
-Procurando a versão mobile? Acesse o repositório [CTR_Web-Comunidade_de_Trabalho_Remoto_Web](https://github.com/verstl0l/CTR_App-Comunidade_de_Trabalho_Remoto_Aplicativo.git). 
+Procurando a versão mobile? Acesse o repositório [CTR_App-Comunidade_de_Trabalho_Remoto_App](https://github.com/verstl0l/CTR_App-Comunidade_de_Trabalho_Remoto_Aplicativo.git). 
 
 
 *Projeto acadêmico voltado para o desenvolvimento de soluções de gestão e colaboração para equipes remotas.*
