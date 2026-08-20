@@ -30,5 +30,10 @@ Abra o arquivo `app.py` e insira as credenciais reais de acesso ao seu banco de 
 4. **Acesse no navegador:**
 Abra o endereço `[http://127.0.0.1:5000](http://127.0.0.1:5000)` para visualizar o sistema em funcionamento.
 
+# CTR-Comunidade_de_Trabalho_Remoto (Web)
+Este é o repositório do aplicativo web desenvolvido em Kotlin e Android Studio.
+
+Procurando a versão para Web? Acesse o repositório [CTR_Web-Comunidade_de_Trabalho_Remoto_Web](https://github.com/verstl0l/CTR_Web-Comunidade_de_Trabalho_Remoto_Web.git).
+
 
 *Projeto acadêmico voltado para o desenvolvimento de soluções de gestão e colaboração para equipes remotas.*
